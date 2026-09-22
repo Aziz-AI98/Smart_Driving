@@ -1,0 +1,6 @@
+tensorflow==2.15.0
+tensorflow-hub==0.16.1
+opencv-python-headless==4.9.0.80
+pandas==2.2.0
+numpy==1.26.4
+streamlit==1.32.0
